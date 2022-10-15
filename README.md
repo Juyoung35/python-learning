@@ -7,7 +7,8 @@ python standard library practice
 
 package practice with jupyter lab
 =================================
-- [ ] numpy
+- [ ] numpy (BSD)
+- - [x] [NumPy Quickstart Tutorial](https://numpy.org/devdocs/user/quickstart.html)
 - [ ] pandas
 - [ ] matplotlib
 - [ ] scikit-learn
